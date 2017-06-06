@@ -1,0 +1,23 @@
+/*CSS DOCUMENT*/
+
+body {
+	background-color: #F02744;
+	text-align: center;
+}
+h1   {
+	color: #000000;
+	}
+p    {
+	color: #000000;
+	}
+a{
+	color: #000000;
+}
+
+.intro{
+	background-image: url("https://www.facebook.com/photo.php?fbid=10154716068620622&set=a.468793960621.288872.755105621&type=3&theater");
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
