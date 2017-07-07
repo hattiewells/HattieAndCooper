@@ -10,15 +10,11 @@ body{
 	font-weight: 100;
 }
 
-h1   {
+h1, p   {
 	color: #FFF;
 }
 	
-p    {
-	color: #FFF;
-}
 a{
-	
 	color: #000;
 }
 
@@ -29,18 +25,8 @@ a{
 	margin: 10px;
 }
 
-.link{
-	text-align: center;
-	background-color: #FFF;
-}
-.options{
-	width: 600px;
-	text-align: center;
-}
-
-li{
-  text-align: center;
-  border: 1px solid #2926cc;
+ul.menu{
+  list-style-type: none;
 }
 
 a:hover {
